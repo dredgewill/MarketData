@@ -1,0 +1,3 @@
+https://esi.evetech.net/latest/markets/10000002/history/?datasource=tranquility&type_id=34
+https://esi.evetech.net/latest/markets/10000002/history/?datasource=tranquility&type_id=35
+https://esi.evetech.net/latest/markets/10000002/history/?datasource=tranquility&type_id=36
